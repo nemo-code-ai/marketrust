@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Outer Shield Container with Blue Background -->
+  <rect width="512" height="512" rx="100" fill="#2563EB" />
+  
+  <!-- Inner White Shield Icon -->
+  <path d="M256 70 L380 120 V240 C380 330 320 400 256 440 C192 400 132 330 132 240 V120 L256 70 Z" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="24" 
+        stroke-linejoin="round"/>
+        
+  <!-- Interlocking Mesh / 'M' Monogram Symbol inside Shield -->
+  <path d="M185 280 L225 200 L256 250 L287 200 L327 280" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="22" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+        
+  <path d="M185 220 L256 320 L327 220" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        opacity="0.9"/>
+</svg>
